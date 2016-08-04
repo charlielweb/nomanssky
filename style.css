@@ -1,0 +1,231 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'GeosansLight-NMS';
+	overflow-x: hidden;
+}
+@font-face {
+	font-family: 'GeosansLight-NMS';
+	src: url('font/GeosansLight-NMS.eot');
+	font-weight: 300;
+	font-style: normal;
+}
+
+.wrapper{
+	width: 100vw;
+	height: 5685px;
+	overflow: hidden;
+	
+}
+
+.navigator{ 
+	height: 51px;
+	background-color: white;
+
+}
+
+ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-size: 40px;
+}
+
+li{
+	display: inline;
+	text-decoration: none;
+	margin-left: 50px;
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.banner{
+	height: 900px;
+	background-image: url("Images/header.gif");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+
+}
+
+.explore{
+	height: 423px;
+}
+
+.exploretitle{
+	font-size: 72px;
+	text-align: center;
+	margin-top: 69px;
+}
+
+.exploredef{
+	font-size: 48px;
+	width: 1196px;
+	height: 331px;
+	text-align: center;
+	margin: auto;
+	margin-top: 31px;
+}
+
+.explorepic{
+	height: 410px;
+	background-image: url("images/explorepic.gif");
+	background-size: 120% 120%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.fight{
+	height: 585px;
+}
+
+.fighttitle{
+	font-size: 72px;
+	text-align: center;
+	margin-top: 69px;
+}
+
+.fightdef{
+	font-size: 48px;
+	width: 1196px;
+	height: 530px;
+	text-align: center;
+	margin: auto;
+	margin-top: 31px;
+}
+
+
+
+.fightpic{
+	height: 410px;
+	background-image: url("images/fightpic.gif");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.trade{
+	height: 693px;
+}
+
+.tradetitle{
+	font-size: 72px;
+	text-align: center;
+	margin-top: 69px;
+}
+
+.tradedef{
+	font-size: 48px;
+	width: 1196px;
+	height: 744px;
+	text-align: center;
+	margin: auto;
+	margin-top: 31px;
+}
+
+.tradepic{
+	height: 410px;
+	background-image: url("images/tradepic.gif");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.survive{
+	height: 370px;
+}
+
+.survivetitle{
+	font-size: 72px;
+	text-align: center;
+	margin-top: 69px;
+}
+
+.survivedef{
+	font-size: 48px;
+	width: 1196px;
+	height: 269px;
+	text-align: center;
+	margin: auto;
+	margin-top: 31px;
+
+}
+
+.survivepic{
+	height: 410px;
+	background-image: url("images/survivepic.gif");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.preorder{
+	height: 601px;
+}
+
+.preordertext{
+	font-size: 72px;
+	text-align: center;
+	margin-top: 69px;
+
+}
+
+
+.preorderplace{
+	
+	margin:  10px auto;
+	width: 1300px;
+	
+}
+
+.pop{
+	margin-left: 100px; 
+}
+
+
+.top{
+	height: 49px;
+	background-color: #d4d4d4;
+	width: 
+	
+}
+.top img{
+ display: block;
+ margin:5 auto;
+ float: left;
+ margin-top: 5px;
+}
+.footpics{
+	width:150px;
+	margin: 0 auto;
+}
+
+.bottom{
+	height: 31px;
+	background-color: #a2a0a0;
+}
+
+.cright{
+	color: white;
+	font-size: 20px;
+	margin: 0 auto;
+	width: 200px;
+}
+
+.footer{
+	height: 80px;
+	background-color: a2a0a0;
+}
